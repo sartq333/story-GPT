@@ -1,7 +1,7 @@
 # story-GPT
 A simple GPT model trained from scratch on [tiny stories dataset](https://huggingface.co/roneneldan/TinyStories-33M/tree/main). Most of the code in this repository has been inspired from this [kaggle notebook](https://www.kaggle.com/code/heyytanay/gpt-from-scratch-using-lightning-and-lance/notebook) so do check it out. It took around 5 hours to train the model for 50 epochs on a P100.
 
-Future Work/Things to do:
+# Future Work/Things to do:
 
 Upload model checkpoints.
 
