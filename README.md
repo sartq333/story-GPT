@@ -20,5 +20,6 @@ I've a couple of more things in my mind to improve this. Will be adding them in 
 # References:
 
 [Kaggle notebook by Tanay Mehta](https://www.kaggle.com/code/heyytanay/gpt-from-scratch-using-lightning-and-lance/notebook)
+
 [Build LLMs from scratch book/github](https://github.com/rasbt/LLMs-from-scratch)
 
