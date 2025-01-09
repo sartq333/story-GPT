@@ -1,7 +1,7 @@
 # story-GPT
 A simple GPT model trained from scratch on [tiny stories dataset](https://huggingface.co/roneneldan/TinyStories-33M/tree/main). It took around 5 hours to train the model for 50 epochs on a P100.
 
-Model checkpoints can be found here: [model checkpoints](https://huggingface.co/Sartc/storyGPT/tree/main).
+Model checkpoints can be found here: [model checkpoints](https://huggingface.co/Sartc/storyGPT/tree/main). Save these weights in a new folder and name that folder as checkpoints. Now run ```python3 inference.py``` for inferencing.
 
 # Future Work/Things to do:
 
@@ -9,7 +9,7 @@ Upload model checkpoints. Done.
 
 Implementation of a metric to evaluate the outputs (perplexity) and set a proper validation dataset.
 
-Implement a proper directory structure for inference, so that model.generate() can be used easily.
+Implement a proper directory structure for inference, so that model.generate() can be used easily. Done.
 
 Replace the use of tiktoken in this code to make it completely independent by probably using [this](https://github.com/karpathy/minbpe).
 
