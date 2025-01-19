@@ -11,7 +11,7 @@ Implementation of a metric to evaluate the outputs (perplexity) and set a proper
 
 Implement a proper directory structure for inference, so that model.generate() can be used easily. Done.
 
-Replace the use of tiktoken in this code to make it completely independent by probably using [this](https://github.com/karpathy/minbpe).
+Replace the use of tiktoken in this code to make it completely independent by probably using these as references https://github.com/karpathy/minbpe, https://sebastianraschka.com/blog/2025/bpe-from-scratch.html.
 
 A simple gradio UI/host on huggingface space (whichever is more convinent).
 
@@ -22,4 +22,3 @@ I've a couple of more things in my mind to improve this. Will be adding them in 
 [Kaggle notebook by Tanay Mehta](https://www.kaggle.com/code/heyytanay/gpt-from-scratch-using-lightning-and-lance/notebook)
 
 [Build LLMs from scratch book/github](https://github.com/rasbt/LLMs-from-scratch)
-
