@@ -1,0 +1,8 @@
+gradio 
+pyarrow
+pylance
+lightning
+wandb
+transformers 
+datasets
+torch
