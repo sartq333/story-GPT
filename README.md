@@ -7,6 +7,10 @@ SS of model's response (via terminal on CPU):
 
 ![image](https://github.com/user-attachments/assets/feb3f6fe-2813-4150-802b-8295ff814a61)
 
+SS of model's response (via gradio UI on CPU):
+![image](https://github.com/user-attachments/assets/95dde6bd-88f5-4991-a517-d651e6c208ef)
+
+
 
 # Future Work/Things to do:
 
