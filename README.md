@@ -1,16 +1,17 @@
 # story-GPT
 A simple GPT model trained from scratch on [tiny stories dataset](https://huggingface.co/roneneldan/TinyStories-33M/tree/main). It took around 5 hours to train the model for 50 epochs on a P100.
 
-Model checkpoints can be found here: [model checkpoints](https://huggingface.co/Sartc/storyGPT/tree/main). Save these weights in a new folder and name that folder as checkpoints. Now run ```python3 inference.py``` for inferencing.
+First of all clone the repo and run ```pip install -r requirements.txt``` so that all the dependencies are installed.
 
+Model checkpoints can be found here: [model checkpoints](https://huggingface.co/Sartc/storyGPT/tree/main). Save these weights in a new folder and name that folder as checkpoints. Now run ```python3 inference.py``` for inferencing.
 SS of model's response (via terminal on CPU):
 
 ![image](https://github.com/user-attachments/assets/feb3f6fe-2813-4150-802b-8295ff814a61)
 
+Use ```python3 app.py``` to run it via gradio UI. 
 SS of model's response (via gradio UI on CPU):
+
 ![image](https://github.com/user-attachments/assets/95dde6bd-88f5-4991-a517-d651e6c208ef)
-
-
 
 # Future Work/Things to do:
 
