@@ -10,15 +10,15 @@ SS of model's response (via terminal on CPU):
 
 # Future Work/Things to do:
 
-Upload model checkpoints. Done.
+~Upload model checkpoints. Done.~
 
 Implementation of a metric to evaluate the outputs (perplexity) and set a proper validation dataset.
 
-Implement a proper directory structure for inference, so that model.generate() can be used easily. Done.
+~Implement a proper directory structure for inference, so that model.generate() can be used easily. Done.~
 
 Replace the use of tiktoken in this code to make it completely independent by probably using these as references https://github.com/karpathy/minbpe, https://sebastianraschka.com/blog/2025/bpe-from-scratch.html.
 
-A simple gradio UI/host on huggingface space (whichever is more convinent).
+~A simple gradio UI/host on huggingface space (whichever is more convinent).~
 
 I've a couple of more things in my mind to improve this. Will be adding them in the future scope of work for this project if it is feasible to work on those (like dockerization and jit compilation to improve inference).
 
