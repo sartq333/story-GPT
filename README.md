@@ -3,6 +3,11 @@ A simple GPT model trained from scratch on [tiny stories dataset](https://huggin
 
 Model checkpoints can be found here: [model checkpoints](https://huggingface.co/Sartc/storyGPT/tree/main). Save these weights in a new folder and name that folder as checkpoints. Now run ```python3 inference.py``` for inferencing.
 
+SS of model's response (via terminal on CPU):
+
+![image](https://github.com/user-attachments/assets/feb3f6fe-2813-4150-802b-8295ff814a61)
+
+
 # Future Work/Things to do:
 
 Upload model checkpoints. Done.
