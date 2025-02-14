@@ -3,7 +3,7 @@ A simple GPT model trained from scratch on [tiny stories dataset](https://huggin
 
 First of all clone the repo and run ```pip install -r requirements.txt``` so that all the dependencies are installed.
 
-Model checkpoints can be found here: [model checkpoints](https://huggingface.co/Sartc/storyGPT/tree/main). Save these weights in a new folder and name that folder as checkpoints. Now run ```python3 inference.py``` for inferencing.
+Model checkpoints can be found here: [model checkpoints](https://huggingface.co/Sartc/storyGPT/tree/main) (both .ckpts and .safetensors) are uploaded there. Save these weights in a new folder and name that folder as checkpoints. Now run ```python3 inference.py``` for inferencing.
 SS of model's response (via terminal on CPU):
 
 ![image](https://github.com/user-attachments/assets/feb3f6fe-2813-4150-802b-8295ff814a61)
