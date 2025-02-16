@@ -1,5 +1,5 @@
 # story-GPT
-A simple GPT model trained from scratch on [tiny stories dataset](https://huggingface.co/roneneldan/TinyStories-33M/tree/main). It took around 5 hours to train the model for 50 epochs on a P100.
+A simple GPT model trained from scratch on [tiny stories dataset](https://huggingface.co/roneneldan/TinyStories-33M/tree/main). It took around 5 hours to train the model for 50 epochs on a P100. You can it here: [storyGPT huggingface spaces](https://huggingface.co/spaces/Sartc/storyGPT)
 
 First of all clone the repo and run ```pip install -r requirements.txt``` so that all the dependencies are installed.
 
